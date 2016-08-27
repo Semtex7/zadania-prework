@@ -1,3 +1,3 @@
 # MOJE ZADANIA PREWORKOWE
 
-ze wszystkich zadañ usun¹³em pliki readme.
+ze wszystkich zadaÅ„ usunÄ…Å‚em pliki readme.
