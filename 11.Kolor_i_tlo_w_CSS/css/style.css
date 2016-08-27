@@ -1,0 +1,28 @@
+#fir {
+  background-color: rgba(55, 75, 164, 0.4);
+  opacity: 0.4;
+}
+#sec {
+  width: 280px;
+  height: 250px;
+background-color: rgba(147,206,222,1);
+background-image: -moz-linear-gradient(top, rgba(147,206,222,1) 0%, rgba(147,206,222,1) 18%, rgba(117,189,209,1) 50%, rgba(73,165,191,1) 82%, rgba(73,165,191,1) 100%);
+background-image: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(147,206,222,1)), color-stop(18%, rgba(147,206,222,1)), color-stop(50%, rgba(117,189,209,1)), color-stop(82%, rgba(73,165,191,1)), color-stop(100%, rgba(73,165,191,1)));
+background-image: -webkit-linear-gradient(top, rgba(147,206,222,1) 0%, rgba(147,206,222,1) 18%, rgba(117,189,209,1) 50%, rgba(73,165,191,1) 82%, rgba(73,165,191,1) 100%);
+background-image: -o-linear-gradient(top, rgba(147,206,222,1) 0%, rgba(147,206,222,1) 18%, rgba(117,189,209,1) 50%, rgba(73,165,191,1) 82%, rgba(73,165,191,1) 100%);
+background-image: -ms-linear-gradient(top, rgba(147,206,222,1) 0%, rgba(147,206,222,1) 18%, rgba(117,189,209,1) 50%, rgba(73,165,191,1) 82%, rgba(73,165,191,1) 100%);
+background-image: linear-gradient(to bottom, rgba(147,206,222,1) 0%, rgba(147,206,222,1) 18%, rgba(117,189,209,1) 50%, rgba(73,165,191,1) 82%, rgba(73,165,191,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf', GradientType=0 );
+}
+#tre {
+  width: 400px;
+  height: 268px;
+  background-image: url(https://s3.amazonaws.com/sitebuilderreport-assets/stock_photos/files/000/027/535/small/xngspc_0022-518x346.jpg.pagespeed.ic.uqpa_a2kK2.jpg?1470938472);
+}
+#four {
+  width: 100%;
+  height: 200px;
+  background-image: url(https://s3.amazonaws.com/sitebuilderreport-assets/stock_photos/files/000/027/603/small/tumblr_oc37wodTUU1v4yqceo1_500.jpg?1471557641);
+  background-repeat: no-repeat;
+  background-position: center;
+}

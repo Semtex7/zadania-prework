@@ -1,0 +1,42 @@
+span {
+color: brown;
+}
+#sec {
+  color:blue;
+}
+#blue {
+  color: blue;
+  font-size: 15px;
+  float:left;
+}
+#red  {
+  color: red;
+  font-size: 2em;
+  float:left;
+}
+#yellow{
+  color: yellow;
+  font-size: 3em;
+  float:left;
+}
+div {
+  background-color: rgba(31,92, 73, 0.25);
+}
+#div3 {
+  color: hsl(15, 50%, 72%);
+  background-color: hsl(227, 50%, 24%);
+}
+#kon {
+  background-color: #FDF;
+  color: green;
+  width: 200px;
+  border: 2px dashed red;
+}
+#fir {
+  background-color: lightblue;
+  width: 50%;
+}
+#dwa {
+  background-color: brown;
+  width: 20%;
+}

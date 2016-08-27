@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <title> Formularze </title>
+
+</head>
+<body>
+  <form>
+    <div>
+      <label for="name"> Podaj Imię </label>
+      <input id="name" placeholder="np. Jan" type="text" name="imie">
+    </div>
+    <div>
+      <label for="nazwisko"> Podaj Nazwisko </label>
+      <input id="nazwisko" placeholder="np. Kowalski" type="text" name="nazwisko">
+    </div>
+    <div>
+      <label for="email"> Adres e-mail</label>
+      <input id="email" placeholder="np. xyz@gmail.com" type="email" name="email">
+    </div>
+    <div>
+      <label for="text"> Twoja wiadomość do nas </label>
+      <textarea id="text" rows="5" cols="60"></textarea>
+    </div>
+    <br>
+    <input type="submit" value="Wyślij">
+  </form>
+  <hr>
+  <form>
+    <h1> Run your inteligent Robo-car </h1>
+    <h2> Select Country: </h2>
+    <strong>Poland</strong>:
+    <input type="checkbox" name="country" value="Poland" checked>
+    <strong>USA</strong>:
+    <input type="checkbox" name="country" value="USA">
+    <Strong>France</strong>:
+    <input type="checkbox" name="country" value="France">
+    <h2> Select Car: </h2>
+    <strong>BMW </strong>
+    <input type="radio" name="car" value="BMW" checked>
+    <strong>Fiat: </strong>
+    <input type="radio" name="car" value="fiat">
+    <h2> When?</h2>
+    <strong>Date:</strong>
+    <input type="text" placeholder="dd.mm.rrrr">
+    <h2> Start Engine. </h2>
+    <strong> Enter Password*:</strong>
+    <input type="password">
+    <br>
+    <br>
+    <input type="submit" value="RUN YOUR CAR">
+    </form>
+</body>
+</html>

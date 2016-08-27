@@ -1,0 +1,27 @@
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-family: monospace;
+  background-color: darkviolet;
+  color: lightgreen;
+  font-weight: bold;
+  width: 443px;
+  border-radius: 5px;
+}
+
+form div{
+  margin: 10px 0px;
+}
+
+input, textarea {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+h1,h2 {
+  font-family: monospace;
+  width: 400px;
+  background-color: lightblue;
+  color: brown;
+  border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+td,th {
+  padding: 2px;
+}
+th {
+  background-color: darkblue;
+  color: white;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 15px;
+}
+table, td {
+  border: 1px solid black;
+}
+#same {
+  border-collapse: collapse;
+}

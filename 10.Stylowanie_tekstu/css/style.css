@@ -1,0 +1,28 @@
+div {
+  width: 500px;
+  font-family: Verdana, arial, sans-serif;;
+}
+h1 {
+  background-color: #ACC4CE;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  height: 30px;
+  text-shadow: 0px 3px 26px rgba(104, 98, 100, 0.64);
+}
+span {
+  color: #395075;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 10px;
+}
+p {
+  padding: 5px;
+	color: rgba(128,128,128,0.65);
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-indent: 20px;
+  line-height: 20px;
+  text-shadow: #373737;
+}
